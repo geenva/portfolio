@@ -2,8 +2,6 @@ import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Image from "next/image";
 import Link from "next/link";
-import Document, { Html, Main, NextScript } from "next/document";
-import head from "next/head";
 
 export default function Home() {
   return (
