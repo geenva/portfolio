@@ -68,10 +68,6 @@
   text-decoration: none;
 }
 
-.secondcard {
-  text-decoration: none;
-}
-
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -80,11 +76,11 @@
 }
 
 
-.hover {
+.bi {
 opacity: 0.6;
 transition: 0.3s; 
 }
 
-.hover:hover {
+.bi:hover {
   opacity: 1;
 } 
